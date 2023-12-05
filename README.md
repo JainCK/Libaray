@@ -4,7 +4,7 @@ Explore and study classes and objects with this functional library web app, crea
 
 ## Live Demo
 
-Check out the live demo [here](#https://jainck.github.io/Libaray/).
+Check out the live demo [here](https://jainck.github.io/Libaray/).
 
 ## What I've Learned
 
